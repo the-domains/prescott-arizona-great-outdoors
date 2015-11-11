@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Prescott AZ Outdoors in Pictures and Print]]></title>
         <description><![CDATA[Prescott AZ Outdoors in Pictures and Print]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/prescott-arizona-great-outdoors/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 11 Nov 2015 17:44:19 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 11 Nov 2015 17:44:33 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/prescott-arizona-great-outdoors/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Getting Started on The Grid]]></title>
+            <description><![CDATA[<article><h1>Getting Started on The Grid</h1><p>Click the pencil icon in the bottom left to read more...</p><img src="https://d33v4339jhl8k0.cloudfront.net/docs/assets/54dd53ebe4b086c0c0966e7a/images/5616ac809033602f2d9baebd/file-t8c0VXJ6mq.gif"></article>]]></description>
+            <link>https://thegrid.ai/prescott-arizona-great-outdoors/getting-started-on-the-grid/index.html</link>
+            <guid isPermaLink="false">4940a4e4-e943-4f7c-a506-8d6ccc60f276</guid>
+            <pubDate>Wed, 11 Nov 2015 17:44:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Granite Mt dressed in snow</p>]]></description>
-            <link>undefinede3c4d68b-ad8c-42bf-a022-a25a86c49061/index.html</link>
+            <link>https://thegrid.ai/prescott-arizona-great-outdoors/e3c4d68b-ad8c-42bf-a022-a25a86c49061/index.html</link>
             <guid isPermaLink="false">e3c4d68b-ad8c-42bf-a022-a25a86c49061</guid>
             <pubDate>Wed, 11 Nov 2015 17:44:07 GMT</pubDate>
         </item>
