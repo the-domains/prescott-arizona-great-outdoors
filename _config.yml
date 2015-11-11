@@ -1,0 +1,23 @@
+name: Prescott Arizona Great Outdoors
+favicon: null
+layout_spectrum: 0.6274076108820736
+typography_spectrum: 0.46358038391917944
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.38447152939625084
+  lightness: 0.7765283877961338
+  saturation: 0.4242294158320874
+  rhythmicContrast: 0.6181642066221684
+purpose: []
